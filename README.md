@@ -49,7 +49,7 @@ Este script es ideal para:
 
 ## 📥 Instalación
 
-1. Clona este repositorio o descarga el archivo `octopusv6.php`
+1. Clona este repositorio o descarga el archivo `oktopus.php`
 2. Colócalo en la carpeta deseada
 3. Asegúrate de que la extensión cURL esté activada
 4. (Opcional) Ejecuta el script por primera vez para crear `proxies.txt`
