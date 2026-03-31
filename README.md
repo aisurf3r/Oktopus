@@ -1,5 +1,11 @@
 # 🐙 Oktopus DoS PHP Load Tester 
 
+<img width="543" height="675" alt="{AD6A8E84-109E-4D24-9572-F3144A0AF488}" src="https://github.com/user-attachments/assets/86a615fc-0694-41c4-b1e0-17053ee8d4f7" />
+<img width="973" height="937" alt="{99752AA9-8C7C-4BB9-BA17-204C782732DE}" src="https://github.com/user-attachments/assets/1b32adf1-b706-4ae5-95fe-432cff609063" />
+
+
+
+
 **Una herramienta potente y fácil de usar para realizar pruebas de carga (Load Testing) desde PHP.**
 
 ---
