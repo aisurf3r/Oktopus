@@ -54,5 +54,52 @@ Este script es ideal para:
 3. Asegúrate de que la extensión cURL esté activada
 4. (Opcional) Ejecuta el script por primera vez para crear `proxies.txt`
 
+
+🛠️ Uso
+Ejecuta el script con:
 ```bash
-php octopusv6.php
+php oktopus.php
+```
+Recomendación:
+Empieza con la opción 1 (definir URLs) y luego usa la opción 12 (ajuste automático) antes de lanzar la prueba.
+
+📊 Resultados
+Al finalizar cada prueba se genera automáticamente un archivo:
+textresultados_load_test_YYYY-MM-DD_HH-MM-SS.html
+El archivo HTML incluye:
+
+Resumen claro de resultados
+Estadísticas de éxito/fallo
+Configuración utilizada
+Diseño limpio y responsive
+
+
+📁 Archivos del proyecto
+
+oktopus.php → Script principal
+proxies.txt → Lista de proxies (se crea automáticamente)
+resultados_load_test_*.html → Reportes generados
+
+
+⚠️ Advertencias
+
+El uso de proxies gratuitos puede ocasionar perdida de peticiones por la calidad de los mismos y se recomienda proxies de pago en lo posible.
+Usa esta herramienta solo en sitios de los que tengas permiso para hacer pruebas de carga.
+Un uso excesivo o malintencionado puede ser considerado ataque DDoS.
+Respeta las leyes y términos de servicio de cada sitio.
+
+
+📌 Próximas mejoras (posibles)
+
+Soporte para autenticación básica / tokens
+Modo silencioso / por línea de comandos
+Gráficos en los reportes HTML
+Soporte para multipart/form-data y subida de archivos
+
+
+⭐ Contribuciones
+¡Las contribuciones son bienvenidas! Si quieres añadir nuevas funcionalidades, mejorar el diseño del HTML o agregar más User-Agents, abre un Pull Request.
+
+Hecho con ❤️  por Aisurf3r. 
+
+
